@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Interface utilisateur</string>
+    <string name="blue">Bleu</string>
+    <string name="green">Verd</string>
+    <string name="red">Rouge</string>
+    <string name="click_me">Cliquez-moi</string>
+    <string name="good_morning">Bonjour!</string>
+</resources>

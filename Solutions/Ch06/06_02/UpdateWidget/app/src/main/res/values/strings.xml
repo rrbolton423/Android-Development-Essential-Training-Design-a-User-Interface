@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">User Interface</string>
+    <string name="pizza">Pizza</string>
+    <string name="quinoa_salad">Quinoa Salad</string>
+    <string name="mushrooms">Stuffed Mushrooms</string>
+    <string name="daily_special">Nadia\'s\nDaily Special</string>
+    <string name="next_special">Next Special</string>
+</resources>
